@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="195" height="195" viewBox="0 0 195 195">
+  <g id="receipt-check-svgrepo-com" transform="translate(7 7)">
+    <path id="secondary" d="M10,27.444,29.444,46.889,68.333,8" transform="translate(61.056 43.611)" fill="none" stroke="#2ca9bc" stroke-linecap="round" stroke-linejoin="round" stroke-width="20"/>
+    <path id="primary" d="M178,12.722V153.694a24.306,24.306,0,1,1-48.611,0V129.389H22.444V12.722A9.722,9.722,0,0,1,32.167,3H168.278A9.722,9.722,0,0,1,178,12.722ZM129.389,153.694V129.389H3v24.306A24.306,24.306,0,0,0,27.306,178H153.694A24.306,24.306,0,0,1,129.389,153.694Z" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="20"/>
+  </g>
+</svg>

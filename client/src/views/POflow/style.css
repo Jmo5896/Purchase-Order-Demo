@@ -1,0 +1,115 @@
+.flo-box {
+  min-height: 40vh;
+  max-height: 95%;
+  overflow-x: hidden;
+  overflow-y: scroll;
+}
+
+.vendor-notice {
+  margin-top: -5px;
+}
+
+.borderup {
+  border: 1px solid #ddd;
+  border-style: solid solid none solid;
+}
+
+.borderdn {
+  border: 1px solid #ddd;
+  border-style: none solid solid solid;
+}
+
+.borderline {
+  border-right: 1px solid rgb(75, 75, 75);
+}
+
+.po-tablebox {
+  min-height: 400px;
+  overflow-x: scroll;
+  overflow-y: hidden;
+  width: 100%;
+}
+
+.history-header {
+  border-radius: 7px 7px 0 0;
+  text-align: center;
+  padding: 0;
+  margin-bottom: 0;
+  /* margin-top: 10px; */
+  /* background-color: #1d65a2; */
+  color: white;
+}
+
+.pending-header {
+  border-radius: 7px 7px 0 0;
+  text-align: center;
+  padding: 0;
+  margin-bottom: 0;
+  /* margin-top: 10px; */
+  color: white;
+}
+
+.my-pending-header {
+  border-radius: 7px 7px 0 0;
+  text-align: center;
+  padding: 0;
+  margin-bottom: 0;
+  /* margin-top: 10px; */
+  background-color: lightgrey;
+  color: black;
+}
+
+.printmsg {
+  padding-left: 200px;
+}
+
+.rejected-header {
+  border-radius: 7px 7px 0 0;
+  text-align: center;
+  padding: 0;
+  margin-bottom: 0;
+  /* margin-top: 10px; */
+  /* background-color: #fec61f; */
+  color: whitesmoke;
+}
+
+.printbtn {
+  position: absolute;
+  z-index: 420;
+  bottom: 0;
+  margin-left: 50px;
+  width: 38px;
+  height: 38px;
+}
+
+#printicon {
+  width: 28px;
+  height: 28px;
+  margin-left: -8px;
+  margin-top: -3px;
+}
+
+.exitbtn {
+  position: absolute;
+  z-index: 420;
+  bottom: 0;
+  margin-left: 100px;
+}
+
+[type=search] {
+  outline-offset: 0;
+  -webkit-appearance: none;
+}
+
+.searchbox {
+  position:absolute;
+  top:20px;
+  width:160px;
+}
+
+@media screen and (max-width: 993px) {
+  .searchbox {
+    position:relative;
+    width:140px;
+  }
+}

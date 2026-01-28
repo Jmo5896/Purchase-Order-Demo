@@ -1,0 +1,26 @@
+.modal-dialog {
+  max-width: 90%;
+  margin: 2rem auto;
+  /* display: flex;
+  align-items: center;
+  justify-content: center; */
+}
+
+.modal-content {
+  /* width: 60%; */
+  /* height: 100%; */
+  border-radius: 7px;
+  box-shadow: 0 1rem 5rem rgba(0, 0, 0, 1) !important;
+  background-color: rgb(230, 248, 246);
+}
+.model-button {
+  background-color: #7ca7b0;
+  padding: 5px 20px;
+  border-radius: 50px;
+  color: white;
+  margin: 10px 0;
+}
+
+.modal-header .light {
+  cursor: pointer;
+}
